@@ -1,6 +1,6 @@
 import java.lang.*;
 import java.util.Scanner;
-class Special
+class Specials
 {
 public static void main(String[] args) 
 {
